@@ -3,7 +3,7 @@
 |  Day  |         Challenge         |          Problem          |          Difficulty          |          Score          |          Solution          |
 | :---: | :-----------------------: | :-----------------------: | :--------------------------: | :---------------------: | :------------------------: |
 |   0   |  Hello, World.   | [Problem](https://www.hackerrank.com/challenges/30-hello-world/problem) | Easy | 30 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/30%20Days%20of%20Code/01%20-%20Day%200%20-%20Hello%2C%20World.c) |
-|   1  |     | [Problem] |  |  | [Solution] |
+|   1  |  Data Types   | [Problem](https://www.hackerrank.com/challenges/30-data-types/problem) | Easy | 30 | [Solution] |
 |   2  |     | [Problem] |  |  | [Solution] |
 |   3  |     | [Problem] |  |  | [Solution] |
 |   4  |     | [Problem] |  |  | [Solution] |
