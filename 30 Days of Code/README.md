@@ -2,7 +2,7 @@
 
 |  Day  |         Challenge         |          Problem          |          Difficulty          |          Score          |          Solution          |
 | :---: | :-----------------------: | :-----------------------: | :--------------------------: | :---------------------: | :------------------------: |
-|   0   |  Hello, World.   | [Problem](https://www.hackerrank.com/challenges/30-hello-world/problem) | Easy | 30 | [Solution] |
+|   0   |  Hello, World.   | [Problem](https://www.hackerrank.com/challenges/30-hello-world/problem) | Easy | 30 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/30%20Days%20of%20Code/01%20-%20Day%200%20-%20Hello%2C%20World.c) |
 |   1  |     | [Problem] |  |  | [Solution] |
 |   2  |     | [Problem] |  |  | [Solution] |
 |   3  |     | [Problem] |  |  | [Solution] |
