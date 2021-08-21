@@ -18,8 +18,8 @@
 | Arrays and Strings | Printing Tokens | [Problem](https://www.hackerrank.com/challenges/printing-tokens-/problem) | Medium | 20 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/03%20-%20Arrays%20and%20Strings/03%20-%20Printing%20Tokens.c) |
 | Arrays and Strings | Digit Frequency | [Problem](https://www.hackerrank.com/challenges/frequency-of-digits-1/problem) | Medium | 25 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/03%20-%20Arrays%20and%20Strings/04%20-%20Digit%20Frequency.c) |
 | Arrays and Strings | Dynamic Array in C | [Problem](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem) | Medium | 40 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/Arrays%20and%20Strings/05%20-%20Dynamic%20Array%20in%20C.c) |
-| Functions | Calculate the Nth term | [Problem] | Easy | 15 | [Solution] |
-| Functions | Students Marks Sum | [Problem] | Easy | 20 | [Solution] |
+| Functions | Calculate the Nth term | [Problem](https://www.hackerrank.com/challenges/recursion-in-c/problem) | Easy | 15 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/04%20-%20Functions/01%20-%20Calculate%20the%20Nth%20term.c) |
+| Functions | Students Marks Sum | [Problem](https://www.hackerrank.com/challenges/students-marks-sum/problem) | Easy | 20 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/04%20-%20Functions/02%20-%20Students%20Marks%20Sum.c) |
 | Functions | Permutations of Strings | [Problem] | Medium | 40 | [Solution] |
 | Functions | Variadic functions in C | [Problem] | Medium | 50 | [Solution] |
 | Functions | Sorting Array of Strings | [Problem] | Hard | 40 | [Solution] |
