@@ -2,9 +2,9 @@
 
 |  Subdomain  |         Challenge         |          Problem          |          Difficulty          |          Score          |          Solution          |
 | :---: | :-----------------------: | :-----------------------: | :--------------------------: | :---------------------: | :------------------------: |
-| Warmup | Solve Me First | [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) | Easy | 1 | [Soluation] |
-| Warmup | Simple Array Sum | [Problem] | Easy | 10 | [Soluation] |
-| Warmup | Compare The Triplets | [Problem] | Easy | 10 | [Soluation] |
+| Warmup | Solve Me First | [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) | Easy | 1 | [Soluation](https://github.com/Abdelrhman97/Hackerrank/blob/main/Algorithms/01%20-%20Solve%20Me%20First.c) |
+| Warmup | Simple Array Sum | [Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem?h_r=next-challenge&h_v=zen) | Easy | 10 | [Soluation](https://github.com/Abdelrhman97/Hackerrank/blob/main/Algorithms/02%20-%20Simple%20Array%20Sum.c) |
+| Warmup | Compare The Triplets | [Problem](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | Easy | 10 | [Soluation](https://github.com/Abdelrhman97/Hackerrank/blob/main/Algorithms/03%20-%20Compare%20the%20Triplets.c) |
 | Warmup | A Very Big Sum | [Problem] | Easy | 10 | [Soluation] |
 | Warmup | Diagonal Difference | [Problem] | Easy | 10 | [Soluation] |
 | Warmup | Plus Minus | [Problem] | Easy | 10 | [Soluation] |
