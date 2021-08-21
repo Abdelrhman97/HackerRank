@@ -20,9 +20,9 @@
 | Arrays and Strings | Dynamic Array in C | [Problem](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem) | Medium | 40 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/Arrays%20and%20Strings/05%20-%20Dynamic%20Array%20in%20C.c) |
 | Functions | Calculate the Nth term | [Problem](https://www.hackerrank.com/challenges/recursion-in-c/problem) | Easy | 15 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/04%20-%20Functions/01%20-%20Calculate%20the%20Nth%20term.c) |
 | Functions | Students Marks Sum | [Problem](https://www.hackerrank.com/challenges/students-marks-sum/problem) | Easy | 20 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/04%20-%20Functions/02%20-%20Students%20Marks%20Sum.c) |
-| Functions | Permutations of Strings | [Problem] | Medium | 40 | [Solution] |
-| Functions | Variadic functions in C | [Problem] | Medium | 50 | [Solution] |
-| Functions | Sorting Array of Strings | [Problem] | Hard | 40 | [Solution] |
+| Functions | Permutations of Strings | [Problem](https://www.hackerrank.com/challenges/permutations-of-strings/problem) | Medium | 40 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/04%20-%20Functions/03%20-%20Permutations%20of%20Strings.c) |
+| Functions | Variadic functions in C | [Problem](https://www.hackerrank.com/challenges/variadic-functions-in-c/problem) | Medium | 50 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/04%20-%20Functions/05%20-%20Variadic%20functions%20in%20C.c) |
+| Functions | Sorting Array of Strings | [Problem](https://www.hackerrank.com/challenges/sorting-array-of-strings/problem) | Hard | 40 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/04%20-%20Functions/04%20-%20Sorting%20Array%20of%20Strings.c) |
 | Functions | Querying the Document | [Problem] | Hard | 50 | [Solution] |
 | Structs and Enums | Boxes through a Tunnel | [Problem] | Easy | 25 | [Solution] |
 | Structs and Enums | Small Triangles, Large Triangles | [Problem] | Medium | 30 | [Solution] |
