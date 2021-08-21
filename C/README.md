@@ -1,4 +1,4 @@
-## C 
+# C 
 
 
 |  Subdomain  |         Challenge         |          Problem          |          Difficulty          |          Score          |          Solution          |
