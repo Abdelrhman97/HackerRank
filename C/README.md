@@ -1,7 +1,7 @@
 |  Subdomain  |         Challenge         |          Problem          |          Difficulty          |          Score          |          Solution          |
 | :---: | :-----------------------: | :-----------------------: | :--------------------------: | :---------------------: | :------------------------: |
 | Introduction | "Hello World!" in C | [Problem](https://www.hackerrank.com/challenges/hello-world-c/problem) | Easy | 5 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/01%20-%20introduction/01%20-%20%22Hello%20World!%22%20in%20C.c) |
-| Introduction | Playing With Characters | [Problem] | Easy | 5 | [Solution] |
+| Introduction | Playing With Characters | [Problem](https://www.hackerrank.com/challenges/playing-with-characters/problem) | Easy | 5 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/01%20-%20introduction/02%20-%20Playing%20With%20Characters.c) |
 | Introduction | Sum and Difference of Two Numbers | [Problem] | Easy | 5 | [Solution] |
 | Introduction | Functions in C | [Problem] | Easy | 10 | [Solution] |
 | Introduction | Pointers in C | [Problem] | Easy | 10 | [Solution] |
