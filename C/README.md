@@ -23,7 +23,7 @@
 | Functions | Permutations of Strings | [Problem](https://www.hackerrank.com/challenges/permutations-of-strings/problem) | Medium | 40 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/04%20-%20Functions/03%20-%20Permutations%20of%20Strings.c) |
 | Functions | Variadic functions in C | [Problem](https://www.hackerrank.com/challenges/variadic-functions-in-c/problem) | Medium | 50 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/04%20-%20Functions/05%20-%20Variadic%20functions%20in%20C.c) |
 | Functions | Sorting Array of Strings | [Problem](https://www.hackerrank.com/challenges/sorting-array-of-strings/problem) | Hard | 40 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/04%20-%20Functions/04%20-%20Sorting%20Array%20of%20Strings.c) |
-| Functions | Querying the Document | [Problem] | Hard | 50 | [Solution] |
+| Functions | Querying the Document | [Problem](https://www.hackerrank.com/challenges/querying-the-document/problem) | Hard | 50 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/04%20-%20Functions/06%20-%20Querying%20the%20Document.c) |
 | Structs and Enums | Boxes through a Tunnel | [Problem] | Easy | 25 | [Solution] |
 | Structs and Enums | Small Triangles, Large Triangles | [Problem] | Medium | 30 | [Solution] |
 | Structs and Enums | Post Transition | [Problem] | Hard | 50 | [Solution] |
