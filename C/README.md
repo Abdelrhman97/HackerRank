@@ -17,7 +17,7 @@
 | Arrays and Strings | Array Reversal | [Problem] | Medium | 20 | [Solution] |
 | Arrays and Strings | Printing Tokens | [Problem] | Medium | 20 | [Solution] |
 | Arrays and Strings | Digit Frequency | [Problem] | Medium | 25 | [Solution] |
-| Arrays and Strings | Dynamic Array in C | [Problem] | Medium | 40 | [Solution] |
+| Arrays and Strings | Dynamic Array in C | [Problem](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem) | Medium | 40 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/Arrays%20and%20Strings/05%20-%20Dynamic%20Array%20in%20C.c) |
 | Functions | Calculate the Nth term | [Problem] | Easy | 15 | [Solution] |
 | Functions | Students Marks Sum | [Problem] | Easy | 20 | [Solution] |
 | Functions | Permutations of Strings | [Problem] | Medium | 40 | [Solution] |
