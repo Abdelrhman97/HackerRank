@@ -13,10 +13,10 @@
 | Conditionals and Loops | Sum of Digits of a Five Digit Number | [Problem](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem) | Easy | 15 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/02%20-%20Conditionals%20and%20Loops/03%20-%20Sum%20of%20Digits%20of%20a%20Five%20Digit%20Number.c) |
 | Conditionals and Loops | Bitwise Operators | [Problem](https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem) | Easy | 15 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/02%20-%20Conditionals%20and%20Loops/04%20-%20Bitwise%20Operators.c) |
 | Conditionals and Loops | Printing Pattern Using Loops | [Problem](https://www.hackerrank.com/challenges/printing-pattern-2/problem) | Medium | 30 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/02%20-%20Conditionals%20and%20Loops/05%20-%20Printing%20Pattern%20Using%20Loops.c) |
-| Arrays and Strings | 1D Arrays in C | [Problem] | Medium | 10 | [Solution] |
-| Arrays and Strings | Array Reversal | [Problem] | Medium | 20 | [Solution] |
-| Arrays and Strings | Printing Tokens | [Problem] | Medium | 20 | [Solution] |
-| Arrays and Strings | Digit Frequency | [Problem] | Medium | 25 | [Solution] |
+| Arrays and Strings | 1D Arrays in C | [Problem](https://www.hackerrank.com/challenges/1d-arrays-in-c/problem) | Medium | 10 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/03%20-%20Arrays%20and%20Strings/01%20-%201D%20Arrays%20in%20C.c) |
+| Arrays and Strings | Array Reversal | [Problem](https://www.hackerrank.com/challenges/reverse-array-c/problem) | Medium | 20 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/03%20-%20Arrays%20and%20Strings/02%20-%20Array%20Reversal.c) |
+| Arrays and Strings | Printing Tokens | [Problem](https://www.hackerrank.com/challenges/printing-tokens-/problem) | Medium | 20 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/03%20-%20Arrays%20and%20Strings/03%20-%20Printing%20Tokens.c) |
+| Arrays and Strings | Digit Frequency | [Problem](https://www.hackerrank.com/challenges/frequency-of-digits-1/problem) | Medium | 25 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/03%20-%20Arrays%20and%20Strings/04%20-%20Digit%20Frequency.c) |
 | Arrays and Strings | Dynamic Array in C | [Problem](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem) | Medium | 40 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C/Arrays%20and%20Strings/05%20-%20Dynamic%20Array%20in%20C.c) |
 | Functions | Calculate the Nth term | [Problem] | Easy | 15 | [Solution] |
 | Functions | Students Marks Sum | [Problem] | Easy | 20 | [Solution] |
