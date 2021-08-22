@@ -9,7 +9,7 @@
 | Warmup | Diagonal Difference | [Problem](https://www.hackerrank.com/challenges/diagonal-difference/problem) | Easy | 10 | [Soluation](https://github.com/Abdelrhman97/Hackerrank/blob/main/Algorithms/05%20-%20Diagonal%20Difference.c) |
 | Warmup | Plus Minus | [Problem](https://www.hackerrank.com/challenges/plus-minus/problem) | Easy | 10 | [Soluation](https://github.com/Abdelrhman97/Hackerrank/blob/main/Algorithms/06%20-%20Plus%20Minus.c) |
 | Warmup | taircase | [Problem](https://www.hackerrank.com/challenges/staircase/problem) | Easy | 10 | [Soluation](https://github.com/Abdelrhman97/Hackerrank/blob/main/Algorithms/07%20-%20Staircase.c) |
-| Warmup | Mini-Max Sum | [Problem] | Easy | 10 | [Soluation] |
+| Warmup | Mini-Max Sum | [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem) | Easy | 10 | [Soluation](https://github.com/Abdelrhman97/Hackerrank/blob/main/Algorithms/08%20-%20Mini-Max%20Sum.c) |
 | Warmup | Birthday Cake Candles | [Problem] | Easy | 10 | [Soluation] |
 | Warmup | Time Conversion | [Problem] | Easy | 10 | [Soluation] |
 
