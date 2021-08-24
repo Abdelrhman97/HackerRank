@@ -5,7 +5,7 @@
 |   0   |  Hello, World.   | [Problem](https://www.hackerrank.com/challenges/30-hello-world/problem) | Easy | 30 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/30%20Days%20of%20Code/01%20-%20Day%200%20-%20Hello%2C%20World.c) |
 |   1  |  Data Types   | [Problem](https://www.hackerrank.com/challenges/30-data-types/problem) | Easy | 30 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/30%20Days%20of%20Code/02%20-%20Day%201%20-%20Data%20Types.c) |
 |   2  |  Operators   | [Problem](https://www.hackerrank.com/challenges/30-operators/problem) | Easy | 30 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/30%20Days%20of%20Code/03%20-%20Day%202%20-%20Operators.c) |
-|   3  |   Intro to Conditional Statements  | [Problem](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | Easy | 30 | [Solution] |
+|   3  |   Intro to Conditional Statements  | [Problem](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | Easy | 30 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/30%20Days%20of%20Code/04%20-%20Day%203%20-%20Intro%20to%20Conditional%20Statements.c) |
 |   4  |   Class vs. Instance  | [Problem] |  |  | [Solution] |
 |   5  |   Loops  | [Problem] |  |  | [Solution] |
 |   6  |  Let's Review   | [Problem] |  |  | [Solution] |
