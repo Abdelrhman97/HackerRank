@@ -13,5 +13,23 @@
 | Warmup | Birthday Cake Candles | [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | Easy | 10 | [Soluation](https://github.com/Abdelrhman97/Hackerrank/blob/main/Algorithms/09%20-%20Birthday%20Cake%20Candles.c) |
 | Warmup | Time Conversion | [Problem] | Easy | 10 | [Soluation] |
 | Implementation | Grading Students | [Problem](https://www.hackerrank.com/challenges/grading/problem) | Easy | 10 | [Soluation](https://github.com/Abdelrhman97/Hackerrank/blob/main/Algorithms/02%20-%20%20Implementation/01%20-%20Grading%20Students.c) |
+| Implementation | Apple and Orange | [Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem)| Easy | 10 | [Soluation](https://github.com/Abdelrhman97/Hackerrank/blob/main/Algorithms/02%20-%20%20Implementation/02%20-%20Apple%20and%20Orange.c)|
+| Implementation |  | [Problem]| Easy |  | [Soluation]|
+| Implementation |  | [Problem]| Easy |  | [Soluation]|
+| Implementation |  | [Problem]| Easy |  | [Soluation]|
+| Implementation |  | [Problem]| Easy |  | [Soluation]|
+| Implementation |  | [Problem]| Easy |  | [Soluation]|
+| Implementation |  | [Problem]| Easy |  | [Soluation]|
+| Implementation |  | [Problem]| Easy |  | [Soluation]|
+| Implementation |  | [Problem]| Easy |  | [Soluation]|
+| Implementation |  | [Problem]| Easy |  | [Soluation]|
+| Implementation |  | [Problem]| Easy |  | [Soluation]|
+| Implementation |  | [Problem]| Easy |  | [Soluation]|
+| Implementation |  | [Problem]| Easy |  | [Soluation]|
+| Implementation |  | [Problem]| Easy |  | [Soluation]|
+| Implementation |  | [Problem]| Easy |  | [Soluation]|
+| Implementation |  | [Problem]| Easy |  | [Soluation]|
+| Implementation |  | [Problem]| Easy |  | [Soluation]|
+| Implementation |  | [Problem]| Easy |  | [Soluation]|
 
 
