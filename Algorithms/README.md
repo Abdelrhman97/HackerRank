@@ -12,5 +12,6 @@
 | Warmup | Mini-Max Sum | [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem) | Easy | 10 | [Soluation](https://github.com/Abdelrhman97/Hackerrank/blob/main/Algorithms/08%20-%20Mini-Max%20Sum.c) |
 | Warmup | Birthday Cake Candles | [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | Easy | 10 | [Soluation](https://github.com/Abdelrhman97/Hackerrank/blob/main/Algorithms/09%20-%20Birthday%20Cake%20Candles.c) |
 | Warmup | Time Conversion | [Problem] | Easy | 10 | [Soluation] |
+| Implementation | Grading Students | [Problem](https://www.hackerrank.com/challenges/grading/problem) | Easy | 10 | [Soluation](https://github.com/Abdelrhman97/Hackerrank/blob/main/Algorithms/02%20-%20%20Implementation/01%20-%20Grading%20Students.c) |
 
 
