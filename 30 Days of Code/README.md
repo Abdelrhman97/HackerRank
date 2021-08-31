@@ -11,7 +11,7 @@
 |   6  |  Let's Review   | [Problem](https://www.hackerrank.com/challenges/30-review-loop/problem) | Easy | 30 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/30%20Days%20of%20Code/07%20-%20Day%206:%20Let's%20Review.cpp) |
 |   7  |  Arrays   | [Problem](https://www.hackerrank.com/challenges/30-arrays/problem) | Easy | 30 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/30%20Days%20of%20Code/08%20-%20Day%207%20-%20Arrays.c) |
 |   8  |    Dictionaries and Maps  | [Problem] |  |  | [Solution] |
-|   9  |   Recursion 3  | [Problem] |  |  | [Solution] |
+|   9  |   Recursion 3  | [Problem](https://www.hackerrank.com/challenges/30-recursion/problem) | Easy | 30 | [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/30%20Days%20of%20Code/10%20-%20Day%209%20-Recursion%203.c) |
 |   10  |   Binary Numbers  | [Problem] |  |  | [Solution] |
 |   11  |  2D Arrays   | [Problem] |  |  | [Solution] |
 |   12  |  Inheritance   | [Problem] |  |  | [Solution] |
