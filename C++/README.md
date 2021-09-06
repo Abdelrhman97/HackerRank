@@ -22,4 +22,28 @@
 |   Classes    |    Inherited Code         |       [Problem]        |    Medium      |    30   |           [Solution]                 |
 |   Classes    |    Exceptional Server         |       [Problem]        |    Medium      |    30   |           [Solution]                 |
 |   Classes    |    Virtual Functions         |       [Problem]        |    Medium     |    40   |           [Solution]                 |
-|   Classes    |    Abstract Classes - Polymorphism         |       [Problem]        |    Hard     |    60   |           [Solution]                 |
+|   Classes    |    Abstract Classes - Polymorphism         |       [Problem]()       |    Hard     |    60   |           [Solution]()                 |
+|   STL    |             |       [Problem]()       |    Easy     |    10   |           [Solution]()                 |
+|   STL    |             |       [Problem]()       |    Easy     |    10   |           [Solution]()                 |
+|   STL    |             |       [Problem]()       |    Easy     |    15   |           [Solution]()                 |
+|   STL    |             |       [Problem]()       |    Easy     |    15   |           [Solution]()                 |
+|   STL    |             |       [Problem]()       |    Easy     |    15   |           [Solution]()                 |
+|   STL    |             |       [Problem]()       |    Easy     |    20   |           [Solution]()                 |
+|   STL    |             |       [Problem]()       |    Medium     |    50   |           [Solution]()               |
+|   Inheritance    |             |       [Problem]()       |    Easy     |    20   |           [Solution]()               |
+|   Inheritance    |             |       [Problem]()       |    Easy     |    25   |           [Solution]()               |
+|   Inheritance    |             |       [Problem]()       |    Easy     |    25   |           [Solution]()               |
+|   Inheritance    |             |       [Problem]()       |    Medium     |    30   |           [Solution]()               |
+|   Inheritance    |             |       [Problem]()       |    Hard     |    40   |           [Solution]()               |
+|   Debugging    |             |       [Problem]()       |    Meduim     |    15   |           [Solution]()               |
+|   Debugging    |             |       [Problem]()       |    Meduim     |    20   |           [Solution]()               |
+|   Debugging    |             |       [Problem]()       |    Meduim     |    20   |           [Solution]()               |
+|   Debugging    |             |       [Problem]()       |    Meduim     |    40   |           [Solution]()               |
+|   Other Concepts    |             |       [Problem]()       |    Easy     |    20   |           [Solution]()               |
+|   Other Concepts    |             |       [Problem]()       |    Easy     |    25   |           [Solution]()               |
+|   Other Concepts    |             |       [Problem]()       |    Meduim     |    25   |           [Solution]()               |
+|   Other Concepts    |             |       [Problem]()       |    Easy     |    30   |           [Solution]()               |
+|   Other Concepts    |             |       [Problem]()       |    Meduim     |    35   |           [Solution]()               |
+|   Other Concepts    |             |       [Problem]()       |    Meduim     |    35   |           [Solution]()               |
+|   Other Concepts    |             |       [Problem]()       |    Hard     |    80   |           [Solution]()               |
+|   Other Concepts    |             |       [Problem]()       |    Hard     |    80   |           [Solution]()               |
