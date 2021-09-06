@@ -13,13 +13,13 @@
 |   introduction    |   Arrays Introduction          |       [Problem](https://www.hackerrank.com/challenges/arrays-introduction)        |    Easy      |    10   |           [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C%2B%2B/01%20-%20%20Introduction/08%20-%20Arrays%20Introduction.cpp)                 |
 |   introduction    |   Variable Sized Arrays          |       [Problem](https://www.hackerrank.com/challenges/variable-sized-arrays)        |    Easy      |    30   |           [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C%2B%2B/01%20-%20%20Introduction/09%20-%20Variable%20Sized%20Arrays.cpp)                 |
 |   Strings    |     Srings        |       [Problem](https://www.hackerrank.com/challenges/c-tutorial-strings)        |    Easy      |    10   |           [Solution](https://github.com/Abdelrhman97/Hackerrank/blob/main/C%2B%2B/02%20-%20Strings/01%20-%20Strings.cpp)                 |
-|   Strings    |             |       [Problem]        |    Easy      |    10   |           [Solution]                 |
-|   Strings    |             |       [Problem]        |    Medium      |    35   |           [Solution]                 |
-|   Classes    |             |       [Problem]        |    Easy      |    10   |           [Solution]                 |
-|   Classes    |             |       [Problem]        |    Easy      |    10   |           [Solution]                 |
-|   Classes    |             |       [Problem]        |    Easy      |    20   |           [Solution]                 |
-|   Classes    |             |       [Problem]        |    Easy      |    30   |           [Solution]                 |
-|   Classes    |             |       [Problem]        |    Medium      |    30   |           [Solution]                 |
-|   Classes    |             |       [Problem]        |    Medium      |    30   |           [Solution]                 |
-|   Classes    |             |       [Problem]        |    Medium     |    40   |           [Solution]                 |
-|   Classes    |             |       [Problem]        |    Hard     |    60   |           [Solution]                 |
+|   Strings    |    StringStram         |       [Problem]        |    Easy      |    10   |           [Solution]                 |
+|   Strings    |     Attribute Parser        |       [Problem]        |    Medium      |    35   |           [Solution]                 |
+|   Classes    |    Struct         |       [Problem]        |    Easy      |    10   |           [Solution]                 |
+|   Classes    |    Class       |       [Problem]        |    Easy      |    10   |           [Solution]                 |
+|   Classes    |    Classes and Objects         |       [Problem]        |    Easy      |    20   |           [Solution]                 |
+|   Classes    |    Box it         |       [Problem]        |    Easy      |    30   |           [Solution]                 |
+|   Classes    |    Inherited Code         |       [Problem]        |    Medium      |    30   |           [Solution]                 |
+|   Classes    |    Exceptional Server         |       [Problem]        |    Medium      |    30   |           [Solution]                 |
+|   Classes    |    Virtual Functions         |       [Problem]        |    Medium     |    40   |           [Solution]                 |
+|   Classes    |    Abstract Classes - Polymorphism         |       [Problem]        |    Hard     |    60   |           [Solution]                 |
