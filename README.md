@@ -16,6 +16,7 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 
 ## HackerRank Badges
 
+![C++](/Badges/C++.png)
 ![C](/Badges/C.png)
 
 ## HackerRank Certificates
